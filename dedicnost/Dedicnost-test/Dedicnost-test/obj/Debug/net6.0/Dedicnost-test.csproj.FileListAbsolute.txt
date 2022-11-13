@@ -1,0 +1,15 @@
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\bin\Debug\net6.0\Dedicnost-test.exe
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\bin\Debug\net6.0\Dedicnost-test.deps.json
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\bin\Debug\net6.0\Dedicnost-test.runtimeconfig.json
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\bin\Debug\net6.0\Dedicnost-test.dll
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\bin\Debug\net6.0\Dedicnost-test.pdb
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.csproj.AssemblyReference.cache
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.AssemblyInfoInputs.cache
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.AssemblyInfo.cs
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.dll
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\refint\Dedicnost-test.dll
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.pdb
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\Dedicnost-test.genruntimeconfig.cache
+C:\programko\visual studio\dedicnost\Dedicnost-test\Dedicnost-test\obj\Debug\net6.0\ref\Dedicnost-test.dll

@@ -1,0 +1,15 @@
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.exe
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.deps.json
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.runtimeconfig.json
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.dll
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\bin\Debug\net6.0\Karkulka.pdb
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.csproj.AssemblyReference.cache
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.AssemblyInfoInputs.cache
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.AssemblyInfo.cs
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.dll
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\refint\Karkulka.dll
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.pdb
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\Karkulka.genruntimeconfig.cache
+C:\programko\visual studio\karkulka\Karkulka\Karkulka\obj\Debug\net6.0\ref\Karkulka.dll

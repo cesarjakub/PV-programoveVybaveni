@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "cviceni1710Slovik/1.0.0": {
+        "runtime": {
+          "cviceni1710Slovik.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "cviceni1710Slovik/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

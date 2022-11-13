@@ -1,0 +1,15 @@
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\bin\Debug\net6.0\inputZKlavesnice.exe
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\bin\Debug\net6.0\inputZKlavesnice.deps.json
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\bin\Debug\net6.0\inputZKlavesnice.runtimeconfig.json
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\bin\Debug\net6.0\inputZKlavesnice.dll
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\bin\Debug\net6.0\inputZKlavesnice.pdb
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.csproj.AssemblyReference.cache
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.AssemblyInfoInputs.cache
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.AssemblyInfo.cs
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.dll
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\refint\inputZKlavesnice.dll
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.pdb
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\inputZKlavesnice.genruntimeconfig.cache
+C:\programko\visual studio\inputzklavesnice\inputZKlavesnice\inputZKlavesnice\obj\Debug\net6.0\ref\inputZKlavesnice.dll

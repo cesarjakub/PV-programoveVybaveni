@@ -1,0 +1,15 @@
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.csproj.AssemblyReference.cache
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.AssemblyInfoInputs.cache
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.AssemblyInfo.cs
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\třidy\1209tridy\1209tridy\bin\Debug\net6.0\1209tridy.exe
+C:\programko\visual studio\třidy\1209tridy\1209tridy\bin\Debug\net6.0\1209tridy.deps.json
+C:\programko\visual studio\třidy\1209tridy\1209tridy\bin\Debug\net6.0\1209tridy.runtimeconfig.json
+C:\programko\visual studio\třidy\1209tridy\1209tridy\bin\Debug\net6.0\1209tridy.dll
+C:\programko\visual studio\třidy\1209tridy\1209tridy\bin\Debug\net6.0\1209tridy.pdb
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.dll
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\refint\1209tridy.dll
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.pdb
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\1209tridy.genruntimeconfig.cache
+C:\programko\visual studio\třidy\1209tridy\1209tridy\obj\Debug\net6.0\ref\1209tridy.dll

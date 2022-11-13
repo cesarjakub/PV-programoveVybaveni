@@ -1,0 +1,15 @@
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\bin\Debug\net6.0\KarkulakFinal.exe
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\bin\Debug\net6.0\KarkulakFinal.deps.json
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\bin\Debug\net6.0\KarkulakFinal.runtimeconfig.json
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\bin\Debug\net6.0\KarkulakFinal.dll
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\bin\Debug\net6.0\KarkulakFinal.pdb
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.csproj.AssemblyReference.cache
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.AssemblyInfoInputs.cache
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.AssemblyInfo.cs
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.dll
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\refint\KarkulakFinal.dll
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.pdb
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\KarkulakFinal.genruntimeconfig.cache
+C:\programko\visual studio\finalKarkulka\KarkulakFinal\KarkulakFinal\obj\Debug\net6.0\ref\KarkulakFinal.dll

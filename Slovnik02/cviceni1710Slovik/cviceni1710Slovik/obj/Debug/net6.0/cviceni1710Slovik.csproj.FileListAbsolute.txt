@@ -1,0 +1,15 @@
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\bin\Debug\net6.0\cviceni1710Slovik.exe
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\bin\Debug\net6.0\cviceni1710Slovik.deps.json
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\bin\Debug\net6.0\cviceni1710Slovik.runtimeconfig.json
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\bin\Debug\net6.0\cviceni1710Slovik.dll
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\bin\Debug\net6.0\cviceni1710Slovik.pdb
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.csproj.AssemblyReference.cache
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.GeneratedMSBuildEditorConfig.editorconfig
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.AssemblyInfoInputs.cache
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.AssemblyInfo.cs
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.csproj.CoreCompileInputs.cache
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.dll
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\refint\cviceni1710Slovik.dll
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.pdb
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\cviceni1710Slovik.genruntimeconfig.cache
+C:\programko\visual studio\Slovnik02\cviceni1710Slovik\cviceni1710Slovik\obj\Debug\net6.0\ref\cviceni1710Slovik.dll
