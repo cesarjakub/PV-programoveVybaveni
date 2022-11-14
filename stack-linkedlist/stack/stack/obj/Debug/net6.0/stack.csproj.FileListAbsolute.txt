@@ -1,0 +1,15 @@
+M:\C3b-VA\stack-linkedlist\stack\stack\bin\Debug\net6.0\stack.exe
+M:\C3b-VA\stack-linkedlist\stack\stack\bin\Debug\net6.0\stack.deps.json
+M:\C3b-VA\stack-linkedlist\stack\stack\bin\Debug\net6.0\stack.runtimeconfig.json
+M:\C3b-VA\stack-linkedlist\stack\stack\bin\Debug\net6.0\stack.dll
+M:\C3b-VA\stack-linkedlist\stack\stack\bin\Debug\net6.0\stack.pdb
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.csproj.AssemblyReference.cache
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.GeneratedMSBuildEditorConfig.editorconfig
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.AssemblyInfoInputs.cache
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.AssemblyInfo.cs
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.csproj.CoreCompileInputs.cache
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.dll
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\refint\stack.dll
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.pdb
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\stack.genruntimeconfig.cache
+M:\C3b-VA\stack-linkedlist\stack\stack\obj\Debug\net6.0\ref\stack.dll
